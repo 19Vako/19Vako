@@ -6,7 +6,7 @@
 
 📱 I’m a mobile developer
 
-⚡️ I like solveing problems
+⚡️ There are no unsolvable problems  
 
 🌱 I’m currently learning backend
 
